@@ -1,0 +1,15 @@
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.exe
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.deps.json
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.runtimeconfig.json
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.dll
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\bin\Debug\net6.0\ExemploFundamentos.pdb
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.dll
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\refint\ExemploFundamentos.dll
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.pdb
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Projetos\MicrosoftDynamics365\ExemploFundamentos\obj\Debug\net6.0\ref\ExemploFundamentos.dll

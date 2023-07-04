@@ -13,9 +13,9 @@ namespace ExemploFundamentos.Models
             int numeroBase = Convert.ToInt32(Console.ReadLine());
 
             // FOR
-            for(int multi = 0; multi <= 10; multi++)
+            for(int multiplicador = 0; multiplicador <= 10; multiplicador++)
             {
-                Console.WriteLine($"{numeroBase} x {multi} = {numeroBase * multi}");
+                Console.WriteLine($"{numeroBase} x {multiplicador} = {numeroBase * multiplicador}");
             }
 
             // WHILE
@@ -38,7 +38,7 @@ namespace ExemploFundamentos.Models
                 numero = Convert.ToInt32(Console.ReadLine());
 
                 soma += numero;
-
+                
             } while(numero != 0);
 
             Console.WriteLine($"Total da soma: {soma}");

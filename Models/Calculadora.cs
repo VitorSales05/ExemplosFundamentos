@@ -7,6 +7,7 @@ namespace ExemploFundamentos.Models
 {
     public class Calculadora
     {
+        
         public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x + y}");
